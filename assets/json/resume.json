@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Shahab Rahimirad",
+    "label": "PhD Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "srahimir@purdue.edu",
+    "phone": "",
+    "url": "https://shahabrrad.github.io/",
+    "summary": "Computer Science PhD student at Purdue University, specializing in Artificial Intelligence and Machine Learning. Passionate about developing innovative solutions to complex problems.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "West Lafayette",
       "countryCode": "US",
-      "region": "California"
+      "region": "Indiana"
     },
     "profiles": [
       {
@@ -151,7 +151,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Persian",
       "fluency": "Native speaker",
       "icon": ""
     },
