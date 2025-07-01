@@ -19,6 +19,9 @@ ninja.data = [{
         },{id: "news-i-gave-a-talk-at-purdue-cs-graduate-research-symposium-about-playing-social-deduction-games-with-llms",
           title: 'I gave a talk at Purdue CS Graduate Research Symposium about playing social...',
           description: "",
+          section: "News",},{id: "news-i-gave-a-talk-about-our-paper-bayesian-social-deduction-with-graph-informed-language-models-to-the-intel-labs",
+          title: 'I gave a talk about our paper “Bayesian Social Deduction with Graph-Informed Language...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
