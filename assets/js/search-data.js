@@ -22,6 +22,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-gave-a-talk-about-our-paper-bayesian-social-deduction-with-graph-informed-language-models-to-the-intel-labs",
           title: 'I gave a talk about our paper “Bayesian Social Deduction with Graph-Informed Language...',
           description: "",
+          section: "News",},{id: "news-i-will-attend-neurips-2025-to-present-our-work-at-the-er-workshop-reach-out-to-meet-and-chat",
+          title: 'I will attend NeurIPS 2025 to present our work at the ER Workshop....',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
