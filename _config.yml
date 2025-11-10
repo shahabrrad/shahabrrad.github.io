@@ -203,7 +203,7 @@ exclude:
   - _pages/projects.md
   - _projects/
   # cv
-  - _pages/cv.md
+  # - _pages/cv.md
   # books
   - _books/the_godfather.md
   # teaching
