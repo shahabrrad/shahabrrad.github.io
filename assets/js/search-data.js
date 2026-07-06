@@ -32,6 +32,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-attend-neurips-2025-to-present-our-work-at-the-er-workshop-reach-out-to-meet-and-chat",
           title: 'I will attend NeurIPS 2025 to present our work at the ER Workshop....',
           description: "",
+          section: "News",},{id: "news-grail-is-accepted-to-acl-2026-i-will-present-it-in-san-diego-in-person-let-s-meet-and-chat",
+          title: 'GRAIL Is accepted to ACL 2026! I will present it in San Diego...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
