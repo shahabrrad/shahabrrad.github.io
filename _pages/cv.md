@@ -1,7 +1,7 @@
 ---
 layout: none
-title: cv
-permalink: /assets/pdf/CV-SHAHAB-RAHIMIRAD.pdf
+title: resume
+permalink: /assets/pdf/resume-rahimirad-oct26.pdf
 nav: true
 nav_order: 99 
 ---
