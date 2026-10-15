@@ -16,12 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-cv",
-          title: "cv",
+        },{id: "nav-resume",
+          title: "resume",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/pdf/CV-SHAHAB-RAHIMIRAD.pdf";
+            window.location.href = "/assets/pdf/resume-rahimirad-oct26.pdf";
           },
         },{id: "news-i-gave-a-talk-at-purdue-cs-graduate-research-symposium-about-playing-social-deduction-games-with-llms",
           title: 'I gave a talk at Purdue CS Graduate Research Symposium about playing social...',
@@ -34,6 +34,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-grail-is-accepted-to-acl-2026-i-will-present-it-in-san-diego-in-person-let-s-meet-and-chat",
           title: 'GRAIL Is accepted to ACL 2026! I will present it in San Diego...',
+          description: "",
+          section: "News",},{id: "news-i-recieved-a-top-reviewer-award-for-neurips-2026-datasets-and-benchmarks-track",
+          title: 'I recieved a Top Reviewer award for NeurIPS 2026 Datasets and Benchmarks track....',
           description: "",
           section: "News",},{
         id: 'social-email',
